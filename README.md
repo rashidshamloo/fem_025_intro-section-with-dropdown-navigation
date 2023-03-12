@@ -5,7 +5,7 @@ This is a solution to the [Intro Section with Dropdown Navigation challenge on F
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshot + Video](#screenshot--video)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
